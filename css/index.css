@@ -1,0 +1,23 @@
+.bg{
+    background: url("../image/indexBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.div-container{
+    
+    border: 0px solid;
+    padding: 20px 25px;
+    margin-top: 62vh;
+    margin-left:600px;
+    margin-right: 250px;
+    -webkit-box-shadow: 0px 0px 31px 14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 31px 14px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 31px 14px rgba(0,0,0,0.75);
+}
+
+h1{
+    color: #008100  ;
+}

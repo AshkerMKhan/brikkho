@@ -1,0 +1,7 @@
+user:
+mail:user@user.com
+pass:User1
+
+retrailer:
+mail:retrailer@retrails.com
+pass:retrailer

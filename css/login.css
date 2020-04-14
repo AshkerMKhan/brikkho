@@ -1,0 +1,35 @@
+.bg{
+	background: url("../image/loginBackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
+.form-container{
+	border:2px solid #fff;
+	padding: 40px 60px
+
+}
+.button{
+	text-align: center;
+	margin-top: 10vh;
+}
+.btn{
+	color: #ffff;
+	margin-bottom: 20px;
+}
+.btn:hover{
+	color: green;
+}
+
+#userLogIn{
+
+}
+#retrailerLogIn{
+	display: none;
+
+}
+#riderLogIn{
+	display: none;
+
+}
